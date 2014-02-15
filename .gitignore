@@ -3,3 +3,4 @@ packages
 .project
 pubspec.lock
 .idea/
+app/bower_components
